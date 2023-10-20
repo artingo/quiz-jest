@@ -3,6 +3,7 @@
   "private": true,
   "version": "1.0.0",
   "type": "module",
+  "homepage" : "https://artingo.github.io/quiz-jest/",
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
